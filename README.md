@@ -1,1 +1,3 @@
-#BEACH BOOKING WEBSITE
+We are thrilled to announce that our website for booking beach reservations has been successfully developed and is now ready to use. Our website was created using a powerful combination of tools such as HTML, CSS, JavaScript, and Bootstrap, which have resulted in a responsive web design.
+
+To provide a seamless experience for our users, our website has been optimized to adjust to different screen sizes and devices. The user-friendly interface we have created makes navigating through the site and booking reservations an absolute breeze. We have also included several features and functionalities to enhance the user experience, such as an easy-to-use calendar for selecting preferred dates. Furthermore, we are keeping track of the number of visits to our website through a visit counter.
